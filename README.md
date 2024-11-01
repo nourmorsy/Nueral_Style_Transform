@@ -15,8 +15,15 @@ To run this project, you’ll need:
   ```
 ---
 
-## Usage and File Description
+## Files Description
 
 - **nueral_style_transform.ipynb**: The primary notebook that implements neural style transfer, using deep learning techniques and the VGG model as a feature extractor.
 - **vgg.ipynb** : A supporting notebook focused on loading and visualizing VGG network layers, used in feature extraction for style transfer.
 
+## Usage
+
+ - Open the **nueral_style_transform.ipynb** notebook in Jupyter
+  ```bash
+  jupyter notebook nueral_style_transform.ipynb
+  ```
+- Follow the instructions within the notebook to load images and apply style transfer.
