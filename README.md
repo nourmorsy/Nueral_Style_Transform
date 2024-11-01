@@ -1,6 +1,3 @@
-# Nueral Style Transform
-
-
 # Neural Style Transfer Project
 
 ## Overview and Goal
@@ -16,6 +13,7 @@ To run this project, you’ll need:
   ```bash
   pip install torch torchvision opencv-python numpy matplotlib
   ```
+---
 
 ## Usage and File Description
 
